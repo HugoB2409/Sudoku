@@ -1,4 +1,4 @@
-<img src="Logo.png" alt="Logo" width="50%">
+<img src="./public/Logo.png" alt="Logo" width="50%">
 
 # Rapport de projet
 Pour tester et jouer au sudoku, [appuyer ici!](https://sudoku-uqtr-boys.s3.us-east-2.amazonaws.com/index.html)
